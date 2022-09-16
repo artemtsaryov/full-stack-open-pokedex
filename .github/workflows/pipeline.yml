@@ -31,3 +31,4 @@ jobs:
           heroku_api_key: ${{secrets.HEROKU_API_KEY}}
           heroku_app_name: "fierce-coast-81220"
           heroku_email: "artyomtsaryov@gmail.com"
+          healthcheck: "https://fierce-coast-81220.herokuapp.com/health"
