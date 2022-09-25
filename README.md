@@ -1,3 +1,7 @@
+# Note
+
+Find exercises 11.20 and 11.21 here https://github.com/artemtsaryov/blogapp
+
 # Full Stack open CI/CD
 
 This repository is used for the CI/CD module of the Full stack open course
